@@ -5,6 +5,6 @@
 <!-- section isi -->
 <?= $this->section('isi') ?>
 
-<h3>ini adalah section isi</h3>
+<h3>Blank page</h3>
 
 <?= $this->endSection() ?>
